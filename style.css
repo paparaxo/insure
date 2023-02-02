@@ -27,7 +27,8 @@ p, a {
     line-height: 1.6;
 }
 h1{
-    color: var(--VeryLightGray);
+    color: orange;
+    /* color: var(--VeryLightGray); */
     line-height: 1;
     font-size: 11vw;
     font-family: karla, serif;
